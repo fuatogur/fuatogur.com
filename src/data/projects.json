@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "E-Ticaret Platformu",
+    "description": "Modern ve responsive bir e-ticaret web uygulaması. Ürün yönetimi, sepet sistemi ve ödeme entegrasyonu içerir.",
+    "technologies": ["Next.js", "React", "Node.js", "MongoDB", "Stripe"],
+    "github": "https://github.com/kullaniciadi/eticaret-projesi",
+    "demo": "https://demo-eticaret.vercel.app"
+  },
+  {
+    "id": 2,
+    "title": "Görev Yönetim Uygulaması",
+    "description": "Ekip çalışması için geliştirilmiş görev takip ve proje yönetim aracı. Drag & drop özelliği ve gerçek zamanlı güncellemeler.",
+    "technologies": ["React", "TypeScript", "Firebase", "Tailwind CSS"],
+    "github": "https://github.com/kullaniciadi/gorev-yonetimi",
+    "demo": null
+  },
+  {
+    "id": 3,
+    "title": "Blog Motoru",
+    "description": "SEO optimizasyonlu, markdown destekli kişisel blog platformu. Yönetici paneli ve içerik yönetim sistemi.",
+    "technologies": ["Next.js", "Contentful", "CSS Modules"],
+    "github": "https://github.com/kullaniciadi/blog-engine",
+    "demo": "https://blog-demo.vercel.app"
+  },
+  {
+    "id": 4,
+    "title": "Hava Durumu Uygulaması",
+    "description": "Gerçek zamanlı hava durumu bilgisi veren responsive web uygulaması. Konum bazlı tahmin ve 7 günlük rapor.",
+    "technologies": ["JavaScript", "OpenWeather API", "CSS3"],
+    "github": "https://github.com/kullaniciadi/weather-app",
+    "demo": "https://weather-app-demo.netlify.app"
+  }
+]
